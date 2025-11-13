@@ -26,31 +26,35 @@ Hodnoty v tomto rozsahu svědčí o:
 
 #### Hodnoty NIŽŠÍ než 0,25
 **Snížený vegetativní index** signalizuje:
-- **Zvýšenou parasympatickou aktivitu** (převaha vagu)
-- Může být u:
-  - Dobře trénovaných sportovců (pozitivní adaptace)
-  - Stavů únavy a vyčerpání
+- **Zvýšenou sympatickou aktivitu** (stresová reakce)
+- **Sníženou variabilitu srdeční frekvence** (HRV)
+- Může být příznakem:
+  - **Chronického stresu a přetížení**
+  - **Nemoci nebo zánětu**
+  - **Vyčerpání organismu**
+  - Nedostatečného zotavení
   - Přetrénování
-  - Depresivních stavů
-- **Velmi nízké hodnoty** mohou znamenat:
-  - Nedostatečnou reaktivitu ANS
-  - Vyčerpání adaptačních mechanismů
+  - Kardiovaskulárního rizika
+  - Vyčerpání adaptačních rezerv
+- **Velmi nízké hodnoty** (<0,15) mohou indikovat:
+  - Výrazné napětí nervového systému
+  - Kritické přetížení organismu
+  - Zvýšené riziko kardiovaskulárních problémů
+  - Nutnost okamžité intervence (odpočinek, relaxace, léčba)
 
 #### Hodnoty VYŠŠÍ než 0,60
 **Zvýšený vegetativní index** signalizuje:
-- **Zvýšenou sympatickou aktivitu** (stresová reakce)
-- **Sníženou variabilitu srdeční frekvence**
-- Může být příznakem:
-  - Chronického stresu
-  - Přetížení organismu
-  - Nedostatečného zotavení
-  - Zánětu nebo infekce
-  - Kardiovaskulárního rizika
-  - Vyčerpání adaptačních rezerv
-- **Velmi vysoké hodnoty** (>1,0) mohou indikovat:
-  - Výrazné napětí nervového systému
-  - Zvýšené riziko kardiovaskulárních problémů
-  - Nutnost okamžité intervence (odpočinek, relaxace)
+- **Zvýšenou parasympatickou aktivitu** (převaha vagu)
+- **Vyšší variabilitu srdeční frekvence**
+- Může být u:
+  - Dobře trénovaných sportovců (pozitivní adaptace)
+  - Lidí s dobrou regenerační schopností
+  - Po kvalitním odpočinku a relaxaci
+  - Lidí praktikujících meditaci nebo dechová cvičení
+- **Velmi vysoké hodnoty** (>0,80) mohou znamenat:
+  - Výbornou parasympatickou aktivitu
+  - Vynikající adaptační rezervy
+  - V některých případech může být nutné ověřit kontext měření
 
 ### Klinický význam
 Vegetativní index je důležitý ukazatel pro:
